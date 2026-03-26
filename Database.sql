@@ -1,0 +1,1 @@
+CREATE DATABASE address_book; USE address_book; CREATE TABLE contacts ( id INT PRIMARY KEY AUTO_INCREMENT, name VARCHAR(100), phone VARCHAR(15), email VARCHAR(100) );
